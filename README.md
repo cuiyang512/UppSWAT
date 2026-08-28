@@ -26,3 +26,5 @@
 
 ## Overview
 UppSWAT is an interactive deep-learning-based software for surface wave mode separation and processing. The mode separation based on unsupervised deep learning framework, which takes a few mins with CPU to process each shot gather. After separating different mode component in the spatial-time domain, we further include the multimodal surface wave inversion in the software. The results show that with the separated results, we get better sub-surface imaging.
+
+There are numerous deep learning publications for seismology problems, featured by different processing and interpretation tasks. However, the main challenge for both industry and academia to use it is lack of generalizability and not user-friendly. To push forward this dilemma, here we proposed UppSWAT, an interactive and user-friendly software for surface wave processing. We addressed the generalization issue by inputting the dispersion information from users in an interactive way and we address the computation by using a small-weight UNet model, which is the most stable model for many deep learning based tasks. 
