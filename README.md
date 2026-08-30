@@ -41,6 +41,10 @@ Numerous deep-learning methods have been developed for a wide range of seismic p
   <img src="./fig/example2.png" alt="ModeSep P1" width="800">
 </div>
 
+<div align="center">
+  <img src="./fig/example3.png" alt="ModeSep P1" width="800">
+</div>
+
 ## Development
 
     The development team welcomes voluntary contributions from any open-source enthusiast. 
