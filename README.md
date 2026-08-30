@@ -40,3 +40,14 @@ Numerous deep-learning methods have been developed for a wide range of seismic p
 <div align="center">
   <img src="./fig/example2.png" alt="ModeSep P1" width="800">
 </div>
+
+## Development
+
+    The development team welcomes voluntary contributions from any open-source enthusiast. 
+    If you want to make contribution to this project, feel free to contact the development team. 
+    
+## Contact
+
+    Regarding any questions, bugs, developments, collaborations, please contact  
+    Yang Cui
+    yang.cui512@gmail.com & yang.cui@geo.uu.se
